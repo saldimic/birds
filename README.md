@@ -1,2 +1,2 @@
 # birds
-bird flight simulation algorithm
+Birds flight simulation algorithm
